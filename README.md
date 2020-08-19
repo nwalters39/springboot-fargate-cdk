@@ -8,7 +8,7 @@ https://www.twitch.tv/videos/620627774
 
 ```
 
-## Get Started
+## Get Started with this app
 
 ##
 
